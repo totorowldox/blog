@@ -1,0 +1,7 @@
+baseURL: https://example.org/
+languageCode: zh-cn
+title: Remo's Station
+theme: blowfish
+
+# This will make .Summary and .WordCount behave correctly for CJK languages.
+hasCJKLanguage: true
