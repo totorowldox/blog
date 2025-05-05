@@ -18,7 +18,7 @@
       <author>totorowldox@gmail.com (Remo)</author>
       <guid>http://localhost:1313/posts/piano-arrangement/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/piano-arrangement/featured.jpg" />
     </item>
     
     <item>

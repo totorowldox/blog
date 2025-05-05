@@ -8,7 +8,7 @@
   breakLines=false
   lifeLike=true
 >}}
-历经严酷抉择，终得心之所安。
+淬风霜择途何畏，守本心归处长安。
 {{< /typeit >}}
 
 {{< typeit 
