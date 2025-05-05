@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试 on Remo&#39;s Station</title>
+    <link>https://example.org/tags/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on Remo&#39;s Station</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>totorowldox@gmail.com (Remo)</managingEditor>
+    <webMaster>totorowldox@gmail.com (Remo)</webMaster>
+    <copyright>© 2025 Remo</copyright>
+    <lastBuildDate>Mon, 05 May 2025 15:46:18 +0800</lastBuildDate><atom:link href="https://example.org/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Post</title>
+      <link>https://example.org/posts/first-post/</link>
+      <pubDate>Mon, 05 May 2025 15:46:18 +0800</pubDate>
+      <author>totorowldox@gmail.com (Remo)</author>
+      <guid>https://example.org/posts/first-post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
